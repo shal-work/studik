@@ -1,0 +1,1603 @@
+{
+    "plase": [
+		{
+			"state": "Россия"
+		},
+		{
+			"state": "Алтайский край",
+			"city": [
+				{
+					"name" : "Барнаул",
+					"institution": [
+						{"name" : "Московский международный университет(филиал)"},
+						{"name" : "Алтайский государственный университет"}
+					]
+				},
+				{
+					"name" : "Бийск",
+					"institution": [
+						{"name" : "Алтайский государственный гуманитарно-педагогический университет имени В.М. Шукшина"}
+					]
+				},
+				{
+					"name" : "Благовещенка",
+					"institution": [
+						{"name" : "Московский международный университет(филиал)"}
+					]
+				}
+			]
+		},
+		{
+			"state": "Ленинградская область",
+			"city": [
+				{
+					"name" : "Санкт-Петербург",
+					"institution": [
+						{"name" : "Санкт-Петербургский государственный университет"},
+						{"name" : "Санкт-Петербургский политехнический университет Петра Великого"},
+						{"name" : "Санкт-Петербургский государственный электротехнический университет \"ЛЭТИ\" имени В.И. Ульянова (Ленина)"}
+					]
+				},
+				{
+					"name" : "Сиверский",
+					"institution": [
+						{"name" : "Федеральное казенное профессиональное образовательное учреждение \"Сиверский техникум-интернат бухгалтеров\" Минтруда России"}
+					]
+				},
+				{
+					"name" : "Сланцы",
+					"institution": [
+						{"name" : "Сланцевский индустриальный техникум - СИТ"}
+					]
+				}
+			]
+		},
+		{
+			"state": "Московская область",
+			"city": [
+				{
+					"name" : "Москва",
+					"institution": [
+						{"name" : "Московский государственный технический университет имени Н.Э. Баумана"},
+						{"name" : "Московский международный университет"},
+						{"name" : "Московский государственный университет имени М.В. Ломоносова"}
+					]
+				}
+			]
+		}
+    ],
+    "institution": [
+		{
+			"name": "Московский государственный технический университет имени Н.Э. Баумана",
+			"nameshort": "МГТУ им. Н.Э. Баумана",
+			"content": {
+				"foto": "./assets/img/bauman-moscow.webp",
+				"logo": "./assets/img/logo-bauman-moscow.svg",
+				"address": "Москва, ул. Новочеремушкинская, д. 69-",
+				"telephone": "Приемная комиссия: 7 (499) 181 21 33-",
+				"infobasic": {
+					"paidseats" : "4 530-",
+					"budgetplaces": "1 705-",
+					"ratingcity": "1 место-",
+					"ratingcountry": "12 место-",
+					"passingscore": "165-",
+					"value" : "432-1 специальности"
+				},
+				"about": {
+						"title": "Об университете-",
+						"foto": [
+							{"url" : "./assets/img/gallery-1.png"},
+							{"url" : "./assets/img/gallery-2.png"},
+							{"url" : "./assets/img/gallery-3.png"},
+							{"url" : "./assets/img/gallery-4.png"},
+							{"url" : "./assets/img/gallery-5.png"}
+							
+						],
+						"textIntro": "1) Московский университет ― это один из самых старейших университетов России, был основан в 1755 году. Университет известен во мире и занимает лидирующие места в рейтингах вузов самых различных направлений.",
+						"text": "1) В 2008 году он получил награду «Европейское качество» «за стремление достичь высокого качества образовательных услуг в соответствии с международными стандартами». МГТУ им. Н. Э. Баумана в течение более чем 14 лет является головным вузом Ассоциации технических университетов, в состав которой входят более 130 российских университетов."
+					},
+				"specialties": [
+					{
+						"name" : "Техническая эксплуатация авиационных электросистем и пилотажных комплексов-1",
+						"foto": "./assets/img/photo-1.png",
+						"level" : "бакалавриат-1",
+						"number" : "01.03.00-1",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"},
+							{"name" : "Очно-заочно"},
+							{"name" : "Дистанционно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем1"},
+							{"name" : "Математическое и программное обеспечение защиты информации1"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Профиль1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"},
+							{"name" : "Профиль-6"},
+							{"name" : "Профиль-7"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "260-1",
+						"passingscore": "от 152-1",
+						"priceyear": "от 90 001 ₽"
+					},
+					{
+						"name" : "Фундаментальна и прикладная химия-1",
+						"foto": "./assets/img/photo-2.png",
+						"level" : "бакалавриат-2",
+						"number" : "01.03.00-2",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"},
+							{"name" : "Очно-заочно"},
+							{"name" : "Дистанционно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Профиль-1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"},
+							{"name" : "Профиль-6"},
+							{"name" : "Профиль-7"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "260-2",
+						"passingscore": "от 152-2",
+						"priceyear": "от 90 002 ₽"
+					},
+					{
+						"name" : "Фундаментальная математика и информатика-1",
+						"foto": "./assets/img/photo-3.png",
+						"level" : "бакалавриат-2",
+						"number" : "01.03.00-2",
+						"typesTraining":[
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Профиль-1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "260-3",
+						"passingscore": "от 152-3",
+						"priceyear": "от 90 003 ₽"
+					}
+				]
+			},
+			"graph": [ 
+				{
+					"gr": [
+						{"year": "2012", "mark": "7.05"},
+						{"year": "2013", "mark": "60.94"},
+						{"year": "2014", "mark": "95.54"},
+						{"year": "2015", "mark": "182.61"},
+						{"year": "2016", "mark": "27"},
+						{"year": "2017", "mark": "121"},
+						{"year": "2018", "mark": "81" },
+						{"year": "2019", "mark": "8"},
+						{"year": "2020", "mark": "5"},
+						{"year": "2021", "mark": "110"}
+					]
+				},
+				{
+					"gr": [
+						{"year": "2012", "mark": "62"},
+						{"year": "2013", "mark": "157"},
+						{"year": "2014", "mark": "54"},
+						{"year": "2015", "mark": "185"},
+						{"year": "2016", "mark": "118"},
+						{"year": "2017", "mark": "89"},
+						{"year": "2018", "mark": "163"},
+						{"year": "2019", "mark": "118"},
+						{"year": "2020", "mark": "2"},
+						{"year": "2021", "mark": "212"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Московский международный университет",
+			"nameshort": "Московский международный университет",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/579/x666.jpg.pagespeed.ic.Ge-38F2bh1.webp",
+				"logo": "data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAABQBwCdASooACgAPp08mEkloyUiLjgMyLATiWIA0ifAq4GWBpAmczwP2quogzV5Jj3WCuyQwgx/8kzuM8tHqpNJqkQYAP7+k5/ss/4X+9wAgYAHijR5/nBJEsH9Or4G0+0FYxzaRvnSfc+k15jIGkyZFJp3OKuV9gIatm3iySLxrLPF6sbMdsTSyrfacl88v6L//ExX1X0WBrRPSc9ubsR/nwF/rHd0Z9JkKUnKr/XNfnaeUe0C2yCvLsb5NlJOlB/gWkHEkOgMQXuYt38Fesl9VY4xKa2dAPkmDvgYBS6JPMSDW7LRDxiqnpZDYs6EokwBFMRphBknrY2Cu/hRsvdkPtmoDnw4edHHSsz1U9GSv/2qf2AB5UZ3Ng0E8RZcFCYhelpWT+duHOYfsdeE6/UuKmqwC7rg2cPLmJSvFVrRADklTWJ8JYAA",
+				"address": "Москва, Ленинградский пр-кт, д 17",
+				"telephone": "Приемная комиссия: 7 (906) 175-78-34",
+				"infobasic": {
+					"paidseats" : "2000",
+					"budgetplaces": "1000",
+					"ratingcity": "2 место",
+					"ratingcountry": "22 место",
+					"passingscore": "100",
+					"value" : "200 специальностей"
+				},
+				"about": {
+						"title": "Об университете-2",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/578/conversions/66-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/579/conversions/666-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/580/66666.jpg"},
+							{"url" : "https://studika.ru/uploads/media/581/conversions/6666-gallery_row.jpg"}
+						],
+						"textIntro": " Текст сгенерирован на fish-text.ru. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует повышению качества форм воздействия. С учётом сложившейся международной обстановки, новая модель организационной деятельности играет важную роль в формировании поэтапного и последовательного развития общества.",
+						"text": " Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
+					},
+				"specialties": [
+					{
+						"name" : "Психология-2",
+						"foto": "https://studika.ru/uploads/media/26170/conversions/xkak-izbavitsya-ot-plohih-myslej-1-thumb.jpg.pagespeed.ic.X95lRQi6s4.jpg",
+						"level" : "бакалавриат-2",
+						"number" : "37.03.01-2",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Очно-заочно"},
+							{"name" : "Дистанционно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем-2"},
+							{"name" : "Математическое и программное обеспечение защиты информации-2"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Профиль1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"},
+							{"name" : "Профиль-6"},
+							{"name" : "Профиль-7"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "260-2",
+						"passingscore": "от 152-2",
+						"priceyear": "от 90 002 ₽"
+						
+					},
+					{
+						"name" : "Экономика-2",
+						"foto": "https://studika.ru/uploads/media/26167/conversions/x612220477adc6014488185-thumb.jpg.pagespeed.ic.oI87bhD_Eu.jpg",
+						"level" : "бакалавриат-2",
+						"number" : "38.03.01-2",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"},
+							{"name" : "Очно-заочно"},
+							{"name" : "Дистанционно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Профиль-1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"},
+							{"name" : "Профиль-6"},
+							{"name" : "Профиль-7"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "260-2",
+						"passingscore": "от 152-2",
+						"priceyear": "от 41 002 ₽"
+					},
+					{
+						"name" : "Менеджмент-2",
+						"foto": "https://studika.ru/uploads/media/26168/conversions/x1263916635783fe639ba99434957057-thumb.jpg.pagespeed.ic.E9r9SeCod0.jpg",
+						"level" : "бакалавриат-2",
+						"number" : "38.03.02-2",
+						"typesTraining":[
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Профиль-1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "260-3",
+						"passingscore": "от 152-3",
+						"priceyear": "от 90 003 ₽"
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "17.05"},
+						{"year": "2013", "mark": "16.94"},
+						{"year": "2014", "mark": "95.54"},
+						{"year": "2015", "mark": "182.61"},
+						{"year": "2016", "mark": "27"},
+						{"year": "2017", "mark": "121"},
+						{"year": "2018", "mark": "81" },
+						{"year": "2019", "mark": "8"},
+						{"year": "2020", "mark": "5"},
+						{"year": "2021", "mark": "110"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Московский международный университет(филиал)",
+			"nameshort": "Московский международный университет",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/579/x666.jpg.pagespeed.ic.Ge-38F2bh1.webp",
+				"logo": "data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAABQBwCdASooACgAPp08mEkloyUiLjgMyLATiWIA0ifAq4GWBpAmczwP2quogzV5Jj3WCuyQwgx/8kzuM8tHqpNJqkQYAP7+k5/ss/4X+9wAgYAHijR5/nBJEsH9Or4G0+0FYxzaRvnSfc+k15jIGkyZFJp3OKuV9gIatm3iySLxrLPF6sbMdsTSyrfacl88v6L//ExX1X0WBrRPSc9ubsR/nwF/rHd0Z9JkKUnKr/XNfnaeUe0C2yCvLsb5NlJOlB/gWkHEkOgMQXuYt38Fesl9VY4xKa2dAPkmDvgYBS6JPMSDW7LRDxiqnpZDYs6EokwBFMRphBknrY2Cu/hRsvdkPtmoDnw4edHHSsz1U9GSv/2qf2AB5UZ3Ng0E8RZcFCYhelpWT+duHOYfsdeE6/UuKmqwC7rg2cPLmJSvFVrRADklTWJ8JYAA",
+				"address": "Москва, Ленинградский пр-кт, д 17",
+				"telephone": "Приемная комиссия: 7 (906) 175-78-34",
+				"infobasic": {
+					"paidseats" : "2000",
+					"budgetplaces": "1000",
+					"ratingcity": "2 место",
+					"ratingcountry": "22 место",
+					"passingscore": "100",
+					"value" : "200 специальностей"
+				},
+				"about": {
+						"title": "Об университете-2",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/578/conversions/66-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/579/conversions/666-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/580/66666.jpg"},
+							{"url" : "https://studika.ru/uploads/media/581/conversions/6666-gallery_row.jpg"}
+						],
+						"textIntro": " Текст сгенерирован на fish-text.ru. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует повышению качества форм воздействия. С учётом сложившейся международной обстановки, новая модель организационной деятельности играет важную роль в формировании поэтапного и последовательного развития общества.",
+						"text": " Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
+					},
+				"specialties": [
+					{
+						"name" : "Психология-2",
+						"foto": "https://studika.ru/uploads/media/26170/conversions/xkak-izbavitsya-ot-plohih-myslej-1-thumb.jpg.pagespeed.ic.X95lRQi6s4.jpg",
+						"level" : "бакалавриат-2",
+						"number" : "37.03.01-2",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Очно-заочно"},
+							{"name" : "Дистанционно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем-2"},
+							{"name" : "Математическое и программное обеспечение защиты информации-2"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Профиль1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"},
+							{"name" : "Профиль-6"},
+							{"name" : "Профиль-7"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "260-2",
+						"passingscore": "от 152-2",
+						"priceyear": "от 90 002 ₽"
+						
+					},
+					{
+						"name" : "Экономика-2",
+						"foto": "https://studika.ru/uploads/media/26167/conversions/x612220477adc6014488185-thumb.jpg.pagespeed.ic.oI87bhD_Eu.jpg",
+						"level" : "бакалавриат-2",
+						"number" : "38.03.01-2",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"},
+							{"name" : "Очно-заочно"},
+							{"name" : "Дистанционно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Профиль-1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"},
+							{"name" : "Профиль-6"},
+							{"name" : "Профиль-7"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "260-2",
+						"passingscore": "от 152-2",
+						"priceyear": "от 41 002 ₽"
+					},
+					{
+						"name" : "Менеджмент-2",
+						"foto": "https://studika.ru/uploads/media/26168/conversions/x1263916635783fe639ba99434957057-thumb.jpg.pagespeed.ic.E9r9SeCod0.jpg",
+						"level" : "бакалавриат-2",
+						"number" : "38.03.02-2",
+						"typesTraining":[
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Программное обеспечение вычислительных систем"},
+							{"name" : "Математическое и программное обеспечение защиты информации"},
+							{"name" : "Экономика"},
+							{"name" : "Организация педагогического исследования"},
+							{"name" : "Фундаментальная и прикладная химия"},
+							{"name" : "Биология"},
+							{"name" : "Профиль-1"},
+							{"name" : "Профиль-2"},
+							{"name" : "Профиль-3"},
+							{"name" : "Профиль-4"},
+							{"name" : "Профиль-5"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "260-3",
+						"passingscore": "от 152-3",
+						"priceyear": "от 90 003 ₽"
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "17.05"},
+						{"year": "2013", "mark": "16.94"},
+						{"year": "2014", "mark": "95.54"},
+						{"year": "2015", "mark": "182.61"},
+						{"year": "2016", "mark": "27"},
+						{"year": "2017", "mark": "121"},
+						{"year": "2018", "mark": "81" },
+						{"year": "2019", "mark": "8"},
+						{"year": "2020", "mark": "5"},
+						{"year": "2021", "mark": "110"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Федеральное казенное профессиональное образовательное учреждение \"Сиверский техникум-интернат бухгалтеров\" Минтруда России",
+			"nameshort": "ФКПОУ",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/41058/4.jpg",
+				"logo": "data:image/webp;base64,UklGRqQCAABXRUJQVlA4IJgCAAAQDgCdASpQAFAAPm0ylEakIyIhJ7gLyIANiWcA0OdEEMBjH9/n922/m9UZF9KGYEq0Gf+Tb6k9F4zZymf6PIkXcJV461fo2rGUTfcrmoikzLT3I0LtpQ30nw8mOM0qcb5Mmjh7lUyCsQfBa1dhIOjJDkPRdq9qX4kAAP74Msv6FesvvpsYFf6L+9nVSh5fZcrY+6MxN8GbPQXspwq2pt1QQw0eqpURlZ8RQHEhdkZGw+6yAde0JaTKYwPrD0MA67xR83y590G5p+1KLAOT2+YLm/a2Dr3cQBQwIWX6fBPzNpzTmnHv58wdHLtFkoOLEBKaCtLMei4p8NI14oeIomfFR2tWZWp6vACv3VLN9MOYE2qus9vPn/Ha+1ru8oGmzkBz9F7e2kp8/DBROsA55weQfEybbH0lkMIMYBCJ+nuIFuzI/zcpvnfuBvTttbgQtL94gObJCVKXd3/5FrQbCf7YXyytQJbDZ82/dO8LVi5f9WCW2+mtzbHakyL14k7AQt6kv3gZgDB3vXYmxYhQGhID8JmXlbDyRda4xXcSeF3j3ZLcXxWkZhDQCwxY2R16dpaO99fHccxnEmwyquBLJFQFZZ0JvdDP+b6WHS9qbEhZitHLdFcUVhbXN+cUCzD1x98fywAOcCnWgXVpEwPS98K+2YH+PzUdHpv/6pSq8ln+KD867+lqMkoTzWlDSZtnkP0yk9f8GgEiFdVOks9YN1rmyATMSS4EqM+e70JjUGY/IDnEkUBU7QC5QMFAbw66xHPfaw2/qcpEjF5TmElSM7nd5DD/jniOwMKdNE3KKzdzZsB4JYmE+ejSppwBSkn7xX5n8mfsVesNfscA3UAUuzcWz1pqFWMnwt5XfeB7/X43ArkCL+cFoAAA",
+				"address": "Ленинградская обл, Гатчинский р-н, гп Сиверский, Республиканский пр-кт, д72 к2",
+				"telephone": "Приемная комиссия: 7 (81371) 440-75",
+				"infobasic": {
+					"paidseats" : "",
+					"budgetplaces": "",
+					"ratingcity": "1 место",
+					"ratingcountry": "3316 место",
+					"passingscore": " ",
+					"value" : "2 специальности"
+				},
+				"about": {
+						"title": "О Техникуме",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/15293/conversions/2-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/15294/conversions/1-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/21349/conversions/stib-foto-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/41058/conversions/4-gallery_small.jpg"}
+						],
+						"textIntro": " ФКПОУ 'СТИБ' Минтруда России принимает на бюджетной основе студентов с ОВЗ и инвалидностью. Специальности: 38.02.01 'Экономика и бухгалтерский учет' (по отраслям); 46.02.01 'Документационное обеспечение управления и архивоведение'",
+						"text": " Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
+					},
+				"specialties": [
+					{
+						"name" : "Экономика и бухгалтерский учет (по отраслям)",
+						"foto": "https://studika.ru/uploads/media/23998/conversions/xeconomica-3-thumb.jpg.pagespeed.ic._5VpyxChOd.webp",
+						"level" : "СРЕДНЕЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАНИЕ",
+						"number" : "38.02.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Экономика и бухгалтерский учет"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Государственый"},
+							{"name" : "Общежитие"}
+						],
+						"budgetplaces": "200",
+						"passingscore": "100",
+						"priceyear": "от 90 003 ₽"
+						
+					},
+					{
+						"name" : "Документационное обеспечение управления и архивоведение",
+						"foto": "https://studika.ru/uploads/media/23648/conversions/xf1f10c4428f4069eeb75a1f22b5a237e-thumb.jpg.pagespeed.ic.zeaT4M8zf5.webp",
+						"level" : "СРЕДНЕЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАНИЕ",
+						"number" : "38.02.01",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Документационное обеспечение управления и архивоведение"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "260",
+						"passingscore": "от 150",
+						"priceyear": "от 41 002 ₽"
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "35"},
+						{"year": "2013", "mark": "16"},
+	  				    {"year": "2014", "mark": "17"},
+						{"year": "2015", "mark": "182"},
+						{"year": "2016", "mark": "27"},
+						{"year": "2017", "mark": "101"},
+						{"year": "2018", "mark": "81" },
+						{"year": "2019", "mark": "8"},
+						{"year": "2020", "mark": "50"},
+						{"year": "2021", "mark": "120"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Сланцевский индустриальный техникум - СИТ",
+			"nameshort": "СИТ",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/14782/82.jpg",
+				"logo": "data:image/webp;base64,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",
+				"address": "Ленинградская обл, г Сланцы, ул Климчука, д 1",
+				"telephone": "Приемная комиссия: +7 (81374) 219-94",
+				"infobasic": {
+					"paidseats" : "200",
+					"budgetplaces": "200",
+					"ratingcity": "1 место",
+					"ratingcountry": "1391 место",
+					"passingscore": "99",
+					"value" : "6 специальностей"
+				},
+				"about": {
+						"title": "О Техникуме",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/14780/conversions/81-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/14781/conversions/85-gallery_row.jpg"},
+							{"url" : "https://studika.ru/uploads/media/14782/conversions/82-gallery_row.jpg"}
+						],
+						"textIntro": " Текст сгенерирован на fish-text.ru. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует повышению качества форм воздействия. С учётом сложившейся международной обстановки, новая модель организационной деятельности играет важную роль в формировании поэтапного и последовательного развития общества.",
+						"text": " Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
+					},
+				"specialties": [
+					{
+						"name" : "Электроснабжение (по отраслям)",
+						"foto": "https://studika.ru/uploads/media/24604/conversions/755528954418075-thumb.jpg",
+						"level" : "СРЕДНЕЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАНИЕ",
+						"number" : "38.02.07",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Техник"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Государственый"},
+							{"name" : "Общежитие"}
+						],
+						"budgetplaces": "100",
+						"passingscore": "100",
+						"priceyear": "от 90 003 ₽"
+						
+					},
+					{
+						"name" : "Монтаж, техническое обслуживание и ремонт промышленного оборудования (по отраслям)",
+						"foto": "https://studika.ru/uploads/media/24348/conversions/x2339-thumb.jpg.pagespeed.ic.pQkLhWEPs8.webp",
+						"level" : "СРЕДНЕЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАНИЕ",
+						"number" : "15.02.12",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Монтаж, техническое обслуживание и ремонт промышленного оборудования (по отраслям)"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "20",
+						"passingscore": "от 10",
+						"priceyear": "от 4 000 ₽"
+					},
+					{
+						"name" : "Экономика и бухгалтерский учет (по отраслям)",
+						"foto": "https://studika.ru/uploads/media/23998/conversions/xeconomica-3-thumb.jpg.pagespeed.ic._5VpyxChOd.webp",
+						"level" : "СРЕДНЕЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАНИЕ",
+						"number" : "38.02.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Кассир"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "-",
+						"passingscore": "-",
+						"priceyear": "-"
+					},
+					{
+						"name" : "Сварщик (ручной и частично механизированной сварки (наплавки)",
+						"foto": "https://studika.ru/uploads/media/23998/conversions/xeconomica-3-thumb.jpg.pagespeed.ic._5VpyxChOd.webp",
+						"level" : "СРЕДНЕЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАНИЕ",
+						"number" : "15.01.05",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Сварщик (ручной и частично механизированной сварки (наплавки)"}
+						],
+						"possibility": [
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "-",
+						"passingscore": "-",
+						"priceyear": "-"
+					},
+					{
+						"name" : "Оператор швейного оборудования",
+						"foto": "https://studika.ru/uploads/media/23998/conversions/xeconomica-3-thumb.jpg.pagespeed.ic._5VpyxChOd.webp",
+						"level" : "СРЕДНЕЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАНИЕ",
+						"number" : "29.01.08",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Оператор швейного оборудования"}
+						],
+						"possibility": [
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "-",
+						"passingscore": "-",
+						"priceyear": "-"
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "80"},
+						{"year": "2013", "mark": "90"},
+	  				    {"year": "2014", "mark": "100"},
+						{"year": "2015", "mark": "50"},
+						{"year": "2016", "mark": "100"},
+						{"year": "2017", "mark": "100"},
+						{"year": "2018", "mark": "81" },
+						{"year": "2019", "mark": "8"},
+						{"year": "2020", "mark": "50"},
+						{"year": "2021", "mark": "120"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Санкт-Петербургский государственный университет",
+			"nameshort": "СПбГУ",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/1085/23.jpg",
+				"logo": "data:image/webp;base64,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",
+				"address": "г.Санкт-Петербург, Университетская наб, д 7-9-11",
+				"telephone": "Приемная комиссия: +7 (812) 914-64-43",
+				"infobasic": {
+					"paidseats" : "2000",
+					"budgetplaces": "1200",
+					"ratingcity": "1 место",
+					"ratingcountry": "2 место",
+					"passingscore": "99",
+					"value" : "164 специальности"
+				},
+				"about": {
+						"title": "О Вузе",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/1081/conversions/21-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1082/conversions/22-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1083/conversions/25-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1084/conversions/24-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1085/conversions/23-gallery_small.jpg"}
+						],
+						"textIntro": "Древнейший вуз России — Санкт-Петербургский государственный университет (СПБГУ) — основан Петром I в 1724 году. За всё время своего существования из его стен вышли сотни талантливых выпускников. Среди них блестящие ученые (М.В. Ломоносов), знаменитые нобелевские лауреаты (Л.Д. Ландау), высокопоставленные чиновники и даже будущие президенты страны (В.В. Путин, Д.А. Медведев).",
+						"text": "Интересные факты о Санкт-Петербургском университете СПБГУ входит в:топ-40 лучших в мире по версии Московского международного рейтинга вузов; топ-100 высших учебных заведений по критерию Teaching; топ-3 университетов Восточной Европы и Центральной Азии.Сегодня здесь обучается больше 20 000 человек из разных уголков планеты.Особый статус государственного университета Санкт-Петербурга закреплён Федеральным законом. Он даёт учебному заведению право обучать студентов по собственным образовательным стандартам."
+					},
+				"specialties": [
+					{
+						"name" : "Математика",
+						"foto": "https://studika.ru/uploads/media/25483/conversions/xumnye-deti-thumb.jpg.pagespeed.ic.dc36dxUciq.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "01.03.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Математика"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "1010",
+						"priceyear": "от 90 003 ₽"
+						
+					},
+					{
+						"name" : "Прикладная математика и информатика",
+						"foto": "https://studika.ru/uploads/media/25582/conversions/x01-engineering-10062014-29659287090-cropped-thumb.jpg.pagespeed.ic.ibgYldUzf-.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "01.03.02",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Прикладная математика, программирование и искусственный интеллект"},
+							{"name" : "Прикладная математика, фундаментальная информатика и программирование"},
+							{"name" : "Современное программирование"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "20",
+						"passingscore": "от 10",
+						"priceyear": "от 4 000 ₽"
+					},
+					{
+						"name" : "Механика и математическое моделирование",
+						"foto": "https://studika.ru/uploads/media/23998/conversions/xeconomica-3-thumb.jpg.pagespeed.ic._5VpyxChOd.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "01.03.03",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Математика, механика и математическое моделирование"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "-",
+						"passingscore": "-",
+						"priceyear": "-"
+					},
+					{
+						"name" : "Фундаментальная математика и механика",
+						"foto": "https://studika.ru/uploads/media/26815/conversions/59911141b1c47446440572-thumb.jpg",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "01.05.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Фундаментальная математика и механика"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "-",
+						"passingscore": "-",
+						"priceyear": "-"
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "180"},
+						{"year": "2013", "mark": "190"},
+	  				    {"year": "2014", "mark": "100"},
+						{"year": "2015", "mark": "150"},
+						{"year": "2016", "mark": "180"},
+						{"year": "2017", "mark": "100"},
+						{"year": "2018", "mark": "181" },
+						{"year": "2019", "mark": "118"},
+						{"year": "2020", "mark": "150"},
+						{"year": "2021", "mark": "120"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Санкт-Петербургский политехнический университет Петра Великого",
+			"nameshort": "СПбПУ",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/31698/1665.jpg",
+				"logo": "data:image/webp;base64,UklGRuYCAABXRUJQVlA4INoCAABQEACdASpQAFAAPm02lUgkIyIhJTv56IANiWUAdwNIBLAG8gZGpsixOegvZXidq48IO0rvAXG/51oj/+X4waYh/a/856q+fV6f9g/9X98rI6D56WaUN/eK5OQChkdOte2Wjg18Nc7OmlCTC+jT253pauYL/y36vfsbcT9q/+GxK/FHUIAqOVK7zaTAAP78kcxH8pqdHZD3wXccvlODMltD8p1Q6ME80b9YigrBvH1VggO+nurN2dV78uSZ4bXLm66dOP6FrSUGxDY3y+WqVJB1o+whb4iBOxNn3QPSk9ebwMa6QNNxMnvFeoW7irUez8MHEN9+jW1tEqOzj2TSNPZBv2s3fEK8j58rdNaBv+oMJ2y/oo/p9XSLWMXa/nE+O14P2F9j0kYaC5pmAqitSI0GH8r2lV3M7RIzwJq33mPV+QrjriRssfe08PfjK75lm7uPqgVOiRW9FPFfZk/FqPnzTYvYTMUNoY4VHpOI3F0xRKTxnlduGOYYW8Z7AgtWFONylcz0WuSg4iRjYt/7mUe34rw7rv6ZxrSyWqDDgvAg5qZyagrE0c/hd179+Vm/ASJveRzUl/2heAzxf9dESjNF4QY0sVxhf5HG1M9T7LYSUye4tPUx+dWkDwxgYT/hJbRvCcB6Q681ZFoXu2kS92IxQq7bDhUDqkKgXQucvwbFw2PHtJJUBf1evN+rPF3+RL7psq/1RrPWjHA9vAZ+YDCLdrk88cobYP1SiKtEjB3XaS+9apFYVPMeOK+Pcu1u6jik48dmyDDOA/WV5XIan+Z68ToVZJZzA+LagPsmyNivFi58yDA/UNGfi3V6o/HXSI2yZbcJULe1m8Mezb0Udv1+xMo21vfcDAM3E/ZrX/K/W9iiof18KI4u3TRBTeBI8Pb4KoqRCs7AR1QTqkQq31yaxJRuUn6gG7Nz+TgGZX5Kcm13J3Y3X35/+cCgUQzff6UQNcI+awSsAAAA",
+				"address": "г Санкт-Петербург, ул Политехническая, д 29",
+				"telephone": "Приемная комиссия: +7 (812) 775-05-30",
+				"infobasic": {
+					"paidseats" : "1800",
+					"budgetplaces": "1000",
+					"ratingcity": "2 место",
+					"ratingcountry": "14 место",
+					"passingscore": "150",
+					"value" : "166 специальностей"
+				},
+				"about": {
+						"title": "О Вузе",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/1075/conversions/11-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1076/12.jpg"},
+							{"url" : "hhttps://studika.ru/uploads/media/1077/15.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1078/1.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1079/14.jpg"}
+						],
+						"textIntro": "Вы можете задать вопрос студенту и получить честный ответ: https://чат.чемпомочь.рф/ ",
+						"text": "Санкт-Петербургский политехнический университет Петра Великого – лидер подготовки высококвалифицированных инженеров для промышленности и источник новых технологий и инновационных разработок. В 2010 году Политех получил статус национального исследовательского университета – это стало признанием его роли и возможностей и в области подготовки кадров, и в мультидисциплинарных научных исследованиях и разработках. Университет – участник государственной программы «5-100», направленной на повышение международной конкурентоспособности российских вузов. \nПолитех - это: \n11 институтов \nболее 32000 студентов \n150 га – общая площадь кампуса с выходом на 4 станции метро \nболее 400 докторов наук \nболее 6000 иностранных студентов \n300+ международных университетов-партнеров \nпрограммы двойного диплома на бакалавриате и магистратуре"
+					},
+				"specialties": [
+					{
+						"name" : "Дизайн архитектурной среды",
+						"foto": "https://studika.ru/uploads/media/25604/conversions/x112910-original-thumb.jpg.pagespeed.ic.N08TwmEjZo.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "07.03.03",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Дизайн архитектурной среды"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 90 003 ₽"
+						
+					},
+					{
+						"name" : "Строительство",
+						"foto": "https://studika.ru/uploads/media/25606/conversions/xdom-13-thumb.jpg.pagespeed.ic.nHeFrtOZn7.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "08.03.01",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Строительство"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 90 003 ₽"
+						
+					},
+					{
+						"name" : "Техносферная безопасность",
+						"foto": "https://studika.ru/uploads/media/26026/conversions/xminspetsialisty-po-tehnosfernoj-bezopasnosti-thumb.jpg.pagespeed.ic.EzAU4pTS5W.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "20.03.01",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Техносферная безопасность"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 90 003 ₽"
+					},
+					{
+						"name" : "Дизайн",
+						"foto": "https://studika.ru/uploads/media/26026/conversions/xminspetsialisty-po-tehnosfernoj-bezopasnosti-thumb.jpg.pagespeed.ic.EzAU4pTS5W.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "54.03.01",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Дизайн"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "500",
+						"passingscore": "510",
+						"priceyear": "от 900 ₽"
+						
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "100"},
+						{"year": "2013", "mark": "19"},
+	  				    {"year": "2014", "mark": "190"},
+						{"year": "2015", "mark": "150"},
+						{"year": "2016", "mark": "180"},
+						{"year": "2017", "mark": "100"},
+						{"year": "2018", "mark": "160" },
+						{"year": "2019", "mark": "95"},
+						{"year": "2020", "mark": "120"},
+						{"year": "2021", "mark": "180"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Санкт-Петербургский государственный электротехнический университет \"ЛЭТИ\" имени В.И. Ульянова (Ленина)",
+			"nameshort": "СПбГЭТУ ЛЭТИ",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/31712/x1683.jpg.pagespeed.ic.qmtVH35kej.webp",
+				"logo": "data:image/webp;base64,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",
+				"address": "г Санкт-Петербург, ул Профессора Попова, д 5",
+				"telephone": "Приемная комиссия: +7 (812) 346-44-87",
+				"infobasic": {
+					"paidseats" : "1800",
+					"budgetplaces": "1000",
+					"ratingcity": "4 место",
+					"ratingcountry": "19 место",
+					"passingscore": "150",
+					"value" : "56 специальностей"
+				},
+				"about": {
+						"title": "О Вузе",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/1087/conversions/35-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1088/conversions/31-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1089/conversions/34-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1090/conversions/33-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/31712/conversions/1683-gallery_small.jpg"}
+						],
+						"textIntro": "Текст сгенерирован на fish-text.ru. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует повышению качества форм воздействия. С учётом сложившейся международной обстановки, новая модель организационной деятельности играет важную роль в формировании поэтапного и последовательного развития общества.",
+						"text": "Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
+					},
+				"specialties": [
+					{
+						"name" : "Радиотехника",
+						"foto": "https://studika.ru/uploads/media/25612/conversions/xeld-0072-thumb.jpg.pagespeed.ic.Jl6f7xb0WT.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "11.03.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Интеллектуальные радиотехнические системы"},
+							{"name" : "Системы компьютерного зрения"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 9000 ₽"
+						
+					},
+					{
+						"name" : "Инфокоммуникационные технологии и системы связи",
+						"foto": "https://studika.ru/uploads/media/25613/conversions/xmanaged-it-services-miami-thumb.jpg.pagespeed.ic.rGKQZii738.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "11.03.02",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Инфокоммуникационные технологии и системы связи"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 9000 ₽"
+						
+					},
+					{
+						"name" : "Конструирование и технология электронных средств",
+						"foto": "https://studika.ru/uploads/media/25614/conversions/x5e482b4f276d5025180946-thumb.jpg.pagespeed.ic.ooC6hF79pK.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "11.03.03",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Конструирование и технология электронных средств"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 9003 ₽"
+						
+					},
+					{
+						"name" : "Радиоэлектронные системы и комплексы",
+						"foto": "https://studika.ru/uploads/media/25614/conversions/x5e482b4f276d5025180946-thumb.jpg.pagespeed.ic.ooC6hF79pK.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "11.05.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Радиоэлектронные системы и комплексы"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "2010",
+						"passingscore": "3010",
+						"priceyear": "от 9004 ₽"
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "19"},
+						{"year": "2013", "mark": "190"},
+	  				    {"year": "2014", "mark": "19"},
+						{"year": "2015", "mark": "100"},
+						{"year": "2016", "mark": "180"},
+						{"year": "2017", "mark": "150"},
+						{"year": "2018", "mark": "90" },
+						{"year": "2019", "mark": "95"},
+						{"year": "2020", "mark": "180"},
+						{"year": "2021", "mark": "190"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Московский государственный университет имени М.В. Ломоносова",
+			"nameshort": "МГУ",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/29390/x192.jpg.pagespeed.ic.9LO7HnXzn2.webp",
+				"logo": "data:image/webp;base64,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",
+				"address": "г Москва, ул Ленинские Горы, д 1",
+				"telephone": "Приемная комиссия: +7 (495) 939-10-00",
+				"infobasic": {
+					"paidseats" : "1800",
+					"budgetplaces": "1000",
+					"ratingcity": "1 место",
+					"ratingcountry": "1 место",
+					"passingscore": "190",
+					"value" : "93 специальности"
+				},
+				"about": {
+						"title": "О Вузе",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/1087/conversions/35-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1088/conversions/31-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1089/conversions/34-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1090/conversions/33-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/31712/conversions/1683-gallery_small.jpg"}
+						],
+						"textIntro": "В 1755 году по указу императрицы Елизаветы был учреждён Московский государственный университет им. Ломоносова. В состав МГУ (Москва) входит 43 факультета по гуманитарным, техническим, естественным, социальным и многим другим направлениям.",
+						"text": "Интересные факты о МГУ \n в ведущем высшем учебном заведении Москвы обучается свыше 50 000 студентов; \nдеятельность организации регулируется Федеральном законом, дающим особое право выдавать молодым специалистам дипломы собственного образца; \nна главном здании размещены самые большие механические часы в России — диаметр их циферблата почти 9 м, часовая стрелка весит 50 кг, а минутная —39; \nздесь в 1989 году был открыт первый советский бейсбольный стадион (сегодня не функционирует);\nсреди окончивших МГУ имени М. В. Ломоносова 11 нобелевских лауреатов — поэт Б.Л. Пастернак, физик Л.Д. Ландау, советский физик и академик А.Д. Сахаров и другие."
+					},
+				"specialties": [
+					{
+						"name" : "Фундаментальная математика и механика",
+						"foto": "https://studika.ru/uploads/media/26815/conversions/x59911141b1c47446440572-thumb.jpg.pagespeed.ic.6p7Cn3ACYY.webp",
+						"level" : "СПЕЦИАЛИТЕТ",
+						"number" : "01.05.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : " Математика "},
+							{"name" : " Механика "},
+							{"name" : "Фундаментальная математика и математическая физика"},
+							{"name" : "Космические исследования и космонавтика"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 9000 ₽"
+						
+					},
+					{
+						"name" : "Прикладная математика и информатика",
+						"foto": "https://studika.ru/uploads/media/25582/conversions/x01-engineering-10062014-29659287090-cropped-thumb.jpg.pagespeed.ic.ibgYldUzf-.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "01.03.02",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Прикладная математика и информатика"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 9000 ₽"
+					},
+					{
+						"name" : "Астрономия",
+						"foto": "https://studika.ru/uploads/media/25534/conversions/x576878787-thumb.jpg.pagespeed.ic.SltxCb0_FP.webp",
+						"level" : "СПЕЦИАЛИТЕТ",
+						"number" : "03.05.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Астрономия"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 9000 ₽"
+					},
+					{
+						"name" : "Фундаментальная и прикладная химия",
+						"foto": "https://studika.ru/uploads/media/25535/conversions/x1611723204-247812-thumb.jpg.pagespeed.ic.NJnnPGHRRp.webp",
+						"level" : "СПЕЦИАЛИТЕТ",
+						"number" : "04.05.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Фундаментальная и прикладная химия"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 9000 ₽"
+					},
+					{
+						"name" : "Биология",
+						"foto": "https://studika.ru/uploads/media/25600/conversions/x1-1-thumb.jpg.pagespeed.ic.MHGYoAMJvj.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "06.03.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Биология"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"},
+							{"name" : "Военная кафедра"}
+						],
+						"budgetplaces": "1010",
+						"passingscore": "2010",
+						"priceyear": "от 9000 ₽"
+					}
+					
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "100"},
+						{"year": "2013", "mark": "150"},
+	  				    {"year": "2014", "mark": "190"},
+						{"year": "2015", "mark": "190"},
+						{"year": "2016", "mark": "180"},
+						{"year": "2017", "mark": "150"},
+						{"year": "2018", "mark": "90" },
+						{"year": "2019", "mark": "95"},
+						{"year": "2020", "mark": "180"},
+						{"year": "2021", "mark": "190"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Алтайский государственный гуманитарно-педагогический университет имени В.М. Шукшина",
+			"nameshort": "АГГПУ",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/34867/4973.jpg",
+				"logo": "data:image/webp;base64,UklGRvwJAABXRUJQVlA4IPAJAADQKACdASpQAFAAPmkojkWkIqEZnmU0QAaEtgBOmW0BE+A80WrP2T8F+vbn15a8nzlT/m/c77u/Uj+a/YD/XTpDftd6gP2C/WP3Uf9l+xXuN/snqE/z7/AemB7EX9t/1vsAfsZ6bPshf3X/qelR6gH//xpP7Z+O3nP4a/VknEkv/WeW3fr8Q8nn+l3p+yHoBd5PAA1JvBPmc/7z1y/1Hh6eMewB+afQq/4/Ml9Qewd+uXpk+yj0Xmj4bB3fJf/EwpHxAG7JuZ+6zQ59but60nNuwhMiE+krfekU3qkFnYd7XZ90XAMjBPhafYNDZ6/7WavtnbEo55Ssgqj8DBubxXCFhyU4vzyKt8/yuHnhyZKajOZ6FinU5rJm8VvasI0RmDiLO0rhrb18gycXsnqomiNRp06+Is+VJ0eI2RmeykuLR0JHU45fmf0Sq5Mx2Z0YAAD+/9we72EcrXjvBX8Gsg8n8Ef677eJgSWHHwOT35xb65vCErt8k0wZed/gGCYZMgsO/l/pQEMgDGMv4xPXGPf7ShZP4x9P9ZcotxZ12CHHz5iX0r/7cKqa7FB9Eev7+5ynvqPbTWBchhhpYEWiQimW57sIem2Vh0kjC1CqbZ7LTJQy6SqOxM6kcBkdlJ4+7VOW8+rUnMkOa5E4tgwYvyEZPlPMB3nVkV0un14tRq89Seq9OARTfndiO7Sfb7glq2XgJ+BFGi32RnSjdXuw+HVmINV37Q7eI3/lRoRImdR1ERso7OSq/f+K1gDcQ7gT6zaRN00UQ0RiwD/dKC4DDuJpOZa4YYdgFGQhC1O5OaCIdTwfXMK+YiESIfOS9UlDG+ZK5gOY+dTpzxljsRIKOprv0InKI+F2ENIwAdeJiXbMSh8uKqLbfunnx49sMjah3QCEpPh/K58wZQlwbz9RpAN5AcEmB9+e3qBn2mKw0vDYEZfpW+jlq9RRmfbcA2m4QvPkrLALy96nhKPO+kwRc4COREp1XJGJAausAh0W/0TiOqGxRTZGSid/Z3XK+Y89W44pV7Bygt/Q+tHJ5CYkh+RzWjs/nO2zkFVipxUJkJL1v8DTOn9YbEgI0aUkyVDcvc9k6bf+d7+Fxt9VmQZuASs8z44DKTnz1etnsSo5m0NYYYwRAKGssvQoZbaApC/sUsQKOSCmEJdzpChN1jVpg+Qk1YbSK2itL49vr31KtN0YUULm8VCxeNXxiiMkKSuOZLzNTK6Ov89HuMuRT9K4wEodEJQ7vQ+KdkDKMk991rqrtW6o4cEHlnGT0razQCwXwoR7MxHuumgnvAruy7vdgJb34SCTtqppDs5b3zgdv0H5mGLFeOqVLB05qkYqrTTc6IIzc8xzSl0siUkr/M0ABG9VmZn/ullYfiKyWabUaQ0vItaUGwyVWa8fq26ZvmbbwjO5w0ta3P+JV+/jbox/DXg5PXeY9qKaWbB6TcVym7qAcKAeBeVfyeT5KX/lQj4azVuFAsIU/p3XesiVRlGp1F8uiczyzw0v0DZCSt+7LUj7HkXZuGUmRNX28MS7bMhyS5dXo7VKKMXb5ObNoEBkUJy3B1PtwnxdfpA2HqWk2GoVycdMJbMml02goCLOkjd3giJdUisp7BCNGckcGnGXxH8d+YTmxD/qhOv/ccvBrA3a7XHD4Cx0DjWhLnrP/0JfsEY4koAO+E9g4uTiYIPjy3vlpIbKpebqTpp3bGTuG3oy11KJu6BMcigVnH3mnDKEzUcctSas26LFAWjsfoQP+RV55vF6Lp3pYL8xApT1WNJlXKEcLpAZE3j8qDt7f8TunXPzcwCT7PRxlnQf0OFEAxz0Ig8cEcfWejQpTzXOz/L/h+oLQjdhz0WjD3QHh36VBnVW+5pYFP4NAd9vx3LPlylAfKFAmrO8BIEvFCWiPCLXhALNXTOXRJpzdSvsLV/PIN+DLUoXoeH5RP8zEz/ZTx2tOK8Y6tm4Bxa0hMzzO69/34qjUSh6sDm8I7n5kRCREXV+lafFig19N7DucUhEI1lTWMuwfi06LRohmW9cVgcYnUa/bmH4/7qCxGfk32pDba8O6xv6Qj+t9wEOUoKhQviLCZFoIY5WRrGQRbSIaXj+Md+A8+GFSRnJhNI9h2rBXTx/28mJj2RBmUBs0vhQJEZcFF4WZ2zApa/b6mlJXYI8+e7yuwc4CGho7lyHZ+AGOQmHdQ0PFTvdwNVWtKrHgS7qjC90J/g7dnckzk7W28RW8HOkuOaJIWkrczBx8tBAT0fOJ2CM+6p6B0ai94Qa8+487kSIrHnFAvzc/tYaz3xY1Fo7A2S4LxFQXWmuu+p8WW1DyhoIsnLdq7scRrT/F3ZkmwBNgJkPT4IX2E5k5MjiHsMmXZeMVfc39W92mrj+juOlmTGMeM6BXDGbNELXwREMkcJg0mCw636nHhrGc0yb79qJ1E+JTZKKkst5CbiOc+JZIuYfRDm6hGyyfKRtBMJKNgM6jHlhyr9WXYzZqIHOXh6bLCLRvh8DWkM9GgI2MuFxxepGJye6Mi4FNMtwPWiO2E7Buk58XrirYdFUYd4jzLIuwFOFmr2EEmm8E7fftX7R6BASJI3stxEWfZuDtCyQiToW0MQW9NEO8qzf8kVlPzcO4gzkP8jb4LzLBqvDR8GRczD4D4gsGbLHNS0D7CW/W2/SFpeWf7W/+lAsRKSFP3U6B/pHIbvy3+88vuvl5GAo0yAId4sYTiUOLrBleSK9TlVPWc3MKsLfbjPG2GTt2kMM8bcbwoPJOq09M0R+MQWVLQRsXq8c4/ZH3Y4Ee2oYR5ck2ODrBa94KYQc45CgSBjQ372VciGtmXrGNrrVeVwj9kb0QBj7+6ajBA/QU8ML0FrZ6HxDymb2aUZ+csMCXVYennl8c/KbUAb3TfKpa9oRnOkhW7EvbAWfrIdJY0+9GasSSRZL6Sp4h8SZ0HAgoRyuCK30ykptrJF1LOvYNSf5WWA0bX/lu1V+Gh4Gi73vEneF1Xxj5n535XeDTLk1k1oS5C1H7kBwxO0VsP5Liad43qGbg16eCKdp1PV5cpJnetxS6awCOynNu0RY4UTFx2fmRkR33FE/A3xSF1QJMhNJ3+Ykx7y5Uq79svEdo6jRWVGb6i5szeI4HMg99vL49xAbRMD4DWOKYgR2B3bd8cGoc6OsH+ruWKmeJFrw5/nOdV/F47VSPZw8DIWcdfuH5JSjqRMMrwCB29Xg7mzXSz2MwshUMyMMwtL2Dnn9ERL8fZvLdRGWQ85LInl/z1F/z2DY/sOKHgNQFa7Or6bZcKAfsfbDX+FsHXD3GFRbFZqiqQOKVOHpTFE3WdIip1JSkMvJerBhyuROmo9xKcsSFjYACTRQ4yK091G4BEl7u6niKVOM6+7iQbF3hRFW+mafPwz79745vTHGozgSecMAAAA=",
+				"address": "Алтайский край, г Бийск, ул Владимира Короленко, д 53а",
+				"telephone": "Приемная комиссия: +7 (3854) 41-64-63",
+				"infobasic": {
+					"paidseats" : "-",
+					"budgetplaces": "-",
+					"ratingcity": "1 место",
+					"ratingcountry": "559 место",
+					"passingscore": "-",
+					"value" : "12 специальностей"
+				},
+				"about": {
+						"title": "О Вузе",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/1887/conversions/24-gallery_big.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1888/conversions/23-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1889/conversions/25-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1890/conversions/26-gallery_small.jpg"},
+							{"url" : "https://studika.ru/uploads/media/1891/conversions/22-gallery_small.jpg"}
+						],
+						"textIntro": "Текст сгенерирован на fish-text.ru. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует повышению качества форм воздействия. С учётом сложившейся международной обстановки, новая модель организационной деятельности играет важную роль в формировании поэтапного и последовательного развития общества.",
+						"text": "Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
+					},
+				"specialties": [
+					{
+						"name" : "Землеустройство и кадастры",
+						"foto": "https://studika.ru/uploads/media/26029/conversions/x371-thumb.jpg.pagespeed.ic.NZtcXpL9S5.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "21.03.02",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Кадастр и кадастровая оценка"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "",
+						"passingscore": "",
+						"priceyear": ""
+					},
+					{
+						"name" : "Психолого-педагогическое образование",
+						"foto": "https://studika.ru/uploads/media/25580/conversions/xdeti-i-pedagog-thumb.jpg.pagespeed.ic.SUV-556zQ4.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "21.03.02",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Психология образования"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "",
+						"passingscore": "",
+						"priceyear": ""
+					},
+					{
+						"name" : "Туризм",
+						"foto": "https://studika.ru/uploads/media/25580/conversions/xdeti-i-pedagog-thumb.jpg.pagespeed.ic.SUV-556zQ4.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "43.03.02",
+						"typesTraining": [
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Туристический бизнес"}
+						],
+						"possibility": [
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "",
+						"passingscore": "",
+						"priceyear": ""
+					},
+					{
+						"name" : "Менеджмент",
+						"foto": "https://studika.ru/uploads/media/25580/conversions/xdeti-i-pedagog-thumb.jpg.pagespeed.ic.SUV-556zQ4.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "38.03.02",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Государственное и муниципальное управление"}
+						],
+						"possibility": [
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "",
+						"passingscore": "",
+						"priceyear": ""
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "100"},
+						{"year": "2013", "mark": "150"},
+	  				    {"year": "2014", "mark": "190"},
+						{"year": "2015", "mark": "190"},
+						{"year": "2016", "mark": "180"},
+						{"year": "2017", "mark": "150"},
+						{"year": "2018", "mark": "90" },
+						{"year": "2019", "mark": "95"},
+						{"year": "2020", "mark": "180"},
+						{"year": "2021", "mark": "190"}
+                	]
+				}
+			]
+ 		},
+		{
+			"name": "Алтайский государственный университет",
+			"nameshort": "АлтГУ",
+			"content": {
+				"foto": "https://studika.ru/uploads/media/1750/x74.jpg.pagespeed.ic.01X_WbLGFS.webp",
+				"logo": "data:image/webp;base64,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",
+				"address": "г Барнаул, пр-кт Ленина, д 61",
+				"telephone": "Приемная комиссия: +7 (3852) 29-12-22",
+				"infobasic": {
+					"paidseats" : "-",
+					"budgetplaces": "-",
+					"ratingcity": "1 место",
+					"ratingcountry": "136 место",
+					"passingscore": "-",
+					"value" : "125 специальностей"
+				},
+				"about": {
+						"title": "О Вузе",
+						"foto": [
+							{"url" : "https://studika.ru/uploads/media/1746/conversions/x71-gallery_big.jpg.pagespeed.ic.PIDU2yqawQ.webp"},
+							{"url" : "https://studika.ru/uploads/media/1747/conversions/x75-gallery_small.jpg.pagespeed.ic.w1QWLn4bNF.webp"},
+							{"url" : "https://studika.ru/uploads/media/1748/conversions/x76-gallery_small.jpg.pagespeed.ic.ps2UADjZMw.webp"},
+							{"url" : "https://studika.ru/uploads/media/1750/conversions/x74-gallery_small.jpg.pagespeed.ic.oAt4Hjlrp3.webp"},
+							{"url" : "https://studika.ru/uploads/media/1751/conversions/x73-gallery_small.jpg.pagespeed.ic.ypjVnWnsIZ.webp"}
+						],
+						"textIntro": "Текст сгенерирован на fish-text.ru. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует повышению качества форм воздействия. С учётом сложившейся международной обстановки, новая модель организационной деятельности играет важную роль в формировании поэтапного и последовательного развития общества.",
+						"text": "Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
+					},
+				"specialties": [
+					{
+						"name" : "Зарубежное регионоведение",
+						"foto": "https://studika.ru/uploads/media/26157/conversions/x1618666385-3-funart-pro-p-zarubezhnoe-regionovedenie-krasivie-mesta-3-thumb.jpg.pagespeed.ic.hw4Tlzfvwh.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "41.03.01",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Китай и китайский язык"},
+							{"name" : "Корея и корейский язык"},
+							{"name" : "Россия и русский язык"}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "",
+						"passingscore": "",
+						"priceyear": ""
+					},
+					{
+						"name" : "Международные отношения",
+						"foto": "https://studika.ru/uploads/media/26149/conversions/x6083e96183d93213657246-thumb.jpg.pagespeed.ic.ASbI0yzp7D.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "41.03.05",
+						"typesTraining": [
+							{"name" : "Очно"}
+						],
+						"listProfiles": [
+							{"name" : "Международные отношения и внешняя политика "}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "",
+						"passingscore": "",
+						"priceyear": ""
+					},
+					{
+						"name" : "История",
+						"foto": "https://studika.ru/uploads/media/25570/conversions/x133372-original-thumb.jpg.pagespeed.ic.YXUFqACUnk.webp",
+						"level" : "БАКАЛАВРИАТ",
+						"number" : "41.03.05",
+						"typesTraining": [
+							{"name" : "Очно"},
+							{"name" : "Заочно"}
+						],
+						"listProfiles": [
+							{"name" : "Международные отношения и внешняя политика "}
+						],
+						"possibility": [
+							{"name" : "Бюджетные места"},
+							{"name" : "Общежитие"},
+							{"name" : "Государственый"}
+						],
+						"budgetplaces": "",
+						"passingscore": "",
+						"priceyear": ""
+					}
+				]
+			},
+        	"graph": [
+				{
+					"gr": [
+						{"year": "2012", "mark": "100"},
+						{"year": "2013", "mark": "150"},
+	  				    {"year": "2014", "mark": "190"},
+						{"year": "2015", "mark": "190"},
+						{"year": "2016", "mark": "180"},
+						{"year": "2017", "mark": "150"},
+						{"year": "2018", "mark": "90" },
+						{"year": "2019", "mark": "95"},
+						{"year": "2020", "mark": "180"},
+						{"year": "2021", "mark": "190"}
+                	]
+				}
+			]
+ 		}
+    ]
+}

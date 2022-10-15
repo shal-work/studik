@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <meta name="descriptin" content=" ">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+    <div class="popup"></div>
+    <header>
+        <div class="header">
+            <div class="container-hat">
+                <div class="navbar-heder" id="dropdown">
+                    <button type="button" class="navbar-toggle">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="container-hat__logo"></div>
+                <div class="container-hat__city">
+                    <i class="fa fa-location-arrow" aria-hidden="true"></i>
+                    <p data-type="city">Москва</p>
+                </div>
+                <div class="container-hat__search">
+                    <div class="container-hat__input">
+                        <button type="submit" name="search"></button>
+                        <input class="institution-search" type="text" name="search" placeholder="Учебное заведение, специальность или профессия">
+                        <button class="container-hat__search_close" type="submit" name="close"></button>
+                    </div>
+                    <div class="popup-search"></div>
+                </div>
+
+                <a class="container-hat__favorite" href="#">
+                    <i class="fa fa-heart"></i>
+                    <span>1</span>
+                </a>
+                <div class="container-hat__name">
+                    <p data-type="name">Екатерина</p>
+                </div>
+                <div class="avatar"></div>
+            </div>
+            <div class="popup-city"></div>
+            <div class="mobile-search">
+                <div class="container-hat__input">
+                    <button type="submit" name="search"></button>
+                    <input class="institution-search" id="mobile-input" type="text" name="search" required placeholder="Учебное заведение, специальность или профессия">
+                    <button class="container-hat__search_close" type="submit" name="close"></button>
+                </div>
+                <div class="popup-search"></div>
+            </div>
+            
+            <div class="container-menu">
+                <div class="container-menu__nav">
+                    <div class="row container-menu__nav_row">
+                        <div class="navbar">
+                            <div class="collapse"  data-toggle-id="dropdown">
+                                <button class="collapse_btn-close" type="submit" name="close"></button>
+                                <div class="mobile-city">
+                                    <i class="fa fa-location-arrow" aria-hidden="true"></i>
+                                    <p data-type="city">Москва</p>
+                                </div>
+                                <div class="container-hat__search_blank">
+                                    <button type="submit" name="search"></button>
+                                    <p>Учебное заведение, специальность или профессия</p>
+                                </div>
+                                <ul class="nav">
+                                    <li class="active"><a href="#">Вузы</a></li>
+                                    <li><a href="#">Колледжи</a></li>
+                                    <li><a href="#">Техникумы</a></li>
+                                    <li><a href="#">Училища</a></li>
+                                    <!-- <li><a href="#">Специальности</a></li> -->
+                                    <li><a href="#">Специальности</a>
+                                        <div class="menu">
+                                            <ul class="submenu">
+                                                <li><a href="">Item 1</a></li>
+                                                <li><a href="">Item 2</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+
+                                    <li><a href="#">Профессии</a></li>
+                                    <li><a href="#">Отзывы</a></li>
+                                    <li><a href="#">Учебным заведениям</a></li>
+                                    <li><a href="#">тест на профориентацию</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <!-- 01-->
+        <section class="hat" id="hat">
+            <div class="hat-content">
+                <!-- 01-breadcrumb-->
+                <ul class="hat-content__breadcrumb">
+                    <li><a href="#">Москва</a></li>
+                    <li><a href="#">Высшее образование</a></li>
+                    <li><a href="#">Вузы</a></li>
+                    <li>МГТУ им. Н.Э. Баумана</li>
+                </ul>
+                <ul class="hat-content__back">
+                    <li><a href="#">Назад</a></li>
+                </ul>
+                <div class="hat-block">
+                    <div class="hat-content__top">
+                        <picture class="hat-content__top_picture">
+                            <img src="./assets/img/bauman-moscow.webp" loading="lazy" alt="МГТУ им. Н.Э. Баумана">
+                        </picture>
+                        <div class="hat-content__top_ico">
+                            <img src="./assets/img/logo-bauman-moscow.svg" loading="lazy" alt="МГУ">
+                        </div>
+                    </div>
+                    <div class="hat-content__lower">
+                        <div class="hat-content__lower_title" id="hat-title">
+                            <h1>Московский государственный технический университет имени Н.Э. Бáумана</h1>
+                            <div class="hat-content__lower_box">
+                                <button class="favourites">
+                                    <i class="fa fa-heart"></i>
+                                    <p>В Избранное</p>
+                                </button>
+                                <button class="notification">
+                                    <i class="fa fa-bell-o" aria-hidden="true"></i>
+                                </button>
+                                <button class="share">
+                                    <div class="ico__share"></div>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="hat-content__lower_info">
+                            <div class="ico__star">
+                                <span>2.4</span>
+                                <span>(75 отзывов)</span>
+                            </div>
+                            <ul class="address">
+                                <li>Москва, ул. Новочеремушкинская, д. 69</li>
+                                <li>Приемная комиссия: 7 (499) 181 21 33</li>
+                            </ul>
+                        </div>
+                        <div class="hat-content__lower_btns">
+                            <button class="feedback">оставить отзыв</button>
+                            <button class="chance">проверить шансы поступить</button>
+                        </div>
+                        <div class="hat-content__lower_info-further">
+                            <div class="updated">
+                                <p>Обновлено </p>
+                                <span class="date-updated">11.11.2011</span>
+                            </div>
+                            <button type="submit" class="error-message">Сообщить об ошибке</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- 02 -->
+        <section class="basic">
+            <div class="basic-content" id="main">
+                <div class="sidebar">
+                    <div class="sidebar__items">
+                        <a href="#main" class="sidebar__item">
+                            <span class="sidebar__item_name">Специальности</span>
+                            <div class="sidebar__item_figure">
+                                <span class="sidebar__item_value">93</span>
+                            </div>
+                        </a>
+                        <a href="#main" class="sidebar__item">
+                            <span class="sidebar__item_name">Специальности</span>
+                            <div class="sidebar__item_figure">
+                                <span class="sidebar__item_value">193</span>
+                            </div>
+                        </a>
+                        <a href="#main" class="sidebar__item">
+                            <span class="sidebar__item_name">Контакты</span>
+                            <div class="sidebar__item_figure">
+                                <span class="sidebar__item_value">100</span>
+                            </div>
+                        </a>
+                        <a href="#main" class="sidebar__item">
+                            <span class="sidebar__item_name">Отзывы</span>
+                            <div class="sidebar__item_figure">
+                                <span class="sidebar__item_value">100</span>
+                            </div>
+                        </a>
+                        <a href="#main" class="sidebar__item">
+                            <span class="sidebar__item_name">Преподаватели</span>
+                            <div class="sidebar__item_figure">
+                                <span class="sidebar__item_value">100</span>
+                            </div>
+                        </a>
+                        <a href="#main" class="sidebar__item">
+                            <span class="sidebar__item_name">Профессии</span>
+                            <div class="sidebar__item_figure">
+                                <span class="sidebar__item_value">100</span>
+                            </div>
+                        </a>
+                        <a href="#main" class="sidebar__item">
+                            <span class="sidebar__item_name">Новости</span>
+                            <div class="sidebar__item_figure">
+                                <span class="sidebar__item_value">100</span>
+                            </div>
+                        </a>
+                        <a href="#main" class="sidebar__item">
+                            <span class="sidebar__item_name">Задать вопрос</span>
+                            <div class="sidebar__item_figure">
+                                <span class="sidebar__item_value">100</span>
+                            </div>
+                        </a>
+                        <a href="#main" class="sidebar__item flex">
+                            <span class="sidebar__item_name">Часто задаваемые вопросы</span>
+                            <div class="sidebar__item_figure flex">
+                                <span class="sidebar__item_value">100</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="info-content">
+                    <article class="info-basic">
+                        <h2>Основная информация</h2>
+                        <div class="row">
+                            <div class="box">
+                                <div class="info-basic__inner">
+                                    <p class="value">4 532</p>
+                                    <span class="description">платных мест</span>
+                                </div>
+                                <div class="info-basic__inner">
+                                    <p class="value">1 702</p>
+                                    <span class="description">бюджетных мест</span>
+                                </div>
+                            </div>
+                            <div class="box">
+                                <div class="info-basic__inner">
+                                    <p class="value">1 место</p>
+                                    <span class="description">в Санкт-Петербурге</span>
+                                </div>
+                                <div class="info-basic__inner">
+                                    <p class="value">12 место</p>
+                                    <span class="description">в РФ</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="box-big">
+                                <div class="info-basic__inne_big">Государственный 
+                                    <div class="background-circle blue">
+                                        <i class="eicon-check" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                                <div class="info-basic__inne_big">Общежитие 
+                                    <div class="background-circle red">
+                                        <i class="eicon-close" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                                <div class="info-basic__inne_big">Военная кафедра 
+                                    <div class="background-circle blue">
+                                        <i class="eicon-check" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="box-small">
+                                <div class="info-basic__inner">
+                                    <span class="info-basic__sign-in-note">Вы представитель УЗ?</span>
+                                    <a class="info-basic__sign-in-button" target="_blank" href="#">Получить доступ</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 03 -->
+                        <div class="passing-score">
+                            <div class="passing-score__block">
+                                <h3>Проходной балл</h3>
+                                <div class="passing-score__background">
+                                    <div class="passing-score__label">
+                                        <p>Проходной балл на бюджет: </p>
+                                        <span>165</span>
+                                    </div>
+                                    <div class="passing-score__row">
+                                        <div class="box-graph">
+                                            <canvas class="graph"></canvas>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <!-- 04 -->
+                    <article class="specialty" >
+                        <div class="specialty-content">
+                            <div class="title">
+                                <h2>Специальности</h2>
+                                <p><span>Специальности </span>МГТУ им. Н. Э. Баумана</p>
+                                <p>432 специальности</p>
+                            </div>
+                            <ul class="hat-content__breadcrumb specialty-sort">
+                                <li>Сортировать:</li>
+                                <li><a href="#">по оплате в год</a></li>
+                                <li><a href="#">по отзывам</a></li>
+                                <li><a href="#">по проходному баллу</a></li>
+                                <li><a href="#">по количеству бюджетных мест</a></li>
+                            </ul> 
+                            <div class="specialty-list">
+                                <div class="specialty-list__block">
+                                    <div class="specialty-list__item">
+                                        <div class="specialty-list__item_picture">
+                                            <div class="specialty-picture">
+                                                <!-- <img src="./assets/img/photo-1.jpg"> -->
+                                            </div>
+                                        </div>
+                                        <div class="specialty-list__item_box">
+                                            <div class="specialty-level">
+                                                <p>бакалавриат</p>
+                                                <span>01.03.00</span> 
+                                            </div>
+                                            <div class="specialty-title">
+                                               <a class="specialty-title__link" href="#">Прикладная математика и информатика</a>
+                                            </div>
+    
+                                            <div class="specialty__form">
+                                                <ul class="specialty__form_list">
+                                                    <li><a href="#">Очно</a></li>
+                                                    <li><a href="#">Заочно</a></li>
+                                                    <li><a href="#">Очно-заочно</a></li>
+                                                    <li><a href="#">Дистанционно</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="specialty__profiles">
+                                                <ul class="specialty__profiles_list">
+                                                    <li><a href="#">Программное обеспечение вычислительных систем</a></li>
+                                                    <li><a href="#">Математическое и программное обеспечение защиты информации</a></li>
+                                                    <li><a href="#">Экономика </a></li>
+                                                    <li><a href="#">Организация педагогического исследования</a></li>
+                                                    <li><a href="#">Фундаментальная и прикладная химия</a></li>
+                                                    <li><a href="#">Биология</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                </ul>
+                                                <p class="specialty__profiles_all" href="#">Все 43 профиля</p>
+                                                <p class="specialty__profiles_all" href="#">Свернуть</p>
+                                            </div>
+                                        </div>
+                                        <div class="specialty-list__item_sidebar">
+                                            <div class="specialty-list__row">
+                                                <div class="specialty-list__icon icon-dormitory"></div>
+                                                <div class="specialty-list__icon icon-state"></div>
+                                                <div class="specialty-list__icon icon-military"></div>
+                                                <div class="specialty-list__icon icon-budget"></div>
+                                            </div>
+                                            <div class="specialty-list__row">
+                                                <div class="specialty__name">Бюджетных <span>мест</span></div>
+                                                <div class="specialty__value">260</div>
+                                            </div>
+                                            <div class="specialty-list__row">
+                                                <div class="specialty__name">Проходной <span>балл</span></div>
+                                                <div class="specialty__value">от 152</div>
+                                            </div>
+                                            <div class="specialty-list__row">
+                                                <div class="specialty__name">Оплата в год</div>
+                                                <div class="specialty__value">от 90 000 ₽</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="specialty-list__block">
+                                    <div class="specialty-list__item">
+                                        <div class="specialty-list__item_picture">
+                                            <div class="specialty-picture">
+                                                <!-- <img src="./assets/img/photo-1.jpg"> -->
+                                            </div>
+                                        </div>
+                                        <div class="specialty-list__item_box">
+                                            <div class="specialty-level">
+                                                <p>бакалавриат</p>
+                                                <span>01.03.00</span> 
+                                            </div>
+                                            <div class="specialty-title">
+                                               <a class="specialty-title__link" href="#">Прикладная математика и информатика</a>
+                                            </div>
+    
+                                            <div class="specialty__form">
+                                                <ul class="specialty__form_list">
+                                                    <li><a href="#">Очно</a></li>
+                                                    <li><a href="#">Заочно</a></li>
+                                                    <li><a href="#">Очно-заочно</a></li>
+                                                    <li><a href="#">Дистанционно</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="specialty__profiles">
+                                                <ul class="specialty__profiles_list">
+                                                    <li><a href="#">Программное обеспечение вычислительных систем</a></li>
+                                                    <li><a href="#">Математическое и программное обеспечение защиты информации</a></li>
+                                                    <li><a href="#">Экономика </a></li>
+                                                    <li><a href="#">Организация педагогического исследования</a></li>
+                                                    <li><a href="#">Фундаментальная и прикладная химия</a></li>
+                                                    <li><a href="#">Биология</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                    <li><a href="#">Профиль-1</a></li>
+                                                </ul>
+                                                <p class="specialty__profiles_all">Все 43 профиля</p>
+                                                <p class="specialty__profiles_all">Свернуть</p>
+                                            </div>
+                                        </div>
+                                        <div class="specialty-list__item_sidebar">
+                                            <div class="specialty-list__row">
+                                                <div class="specialty-list__icon">
+                                                    <svg width="19" height="14" viewBox="0 0 19 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M11 2H13.9194L9.91938 7H17V5H14.0806L18.0806 0H11V2Z" fill="#222222"/>
+                                                        <path d="M2 4V6H6L0 14H9V12H4L10 4H2Z" fill="#222222"/>
+                                                    </svg>
+                                                </div>
+                                                <div class="specialty-list__icon">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8 2.23607L13.5279 5H2.47214L8 2.23607ZM8 0L0 4V5V7H2H14H16V5V4L8 0ZM12 8H14V13H12V8ZM15 14V16H1L1 14L15 14ZM9 8V13H7V8H9ZM4 8H2V13H4V8Z" fill="#222222"/>
+                                                    </svg>
+                                                </div>
+                                                <div class="specialty-list__icon">
+                                                    <svg width="18" height="13" viewBox="0 0 18 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M12 1H3L7 7L3 12H12L16 7L12 1Z" stroke="#222222" stroke-width="2"/>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                            <div class="specialty-list__row">
+                                                <div class="specialty__name">Бюджетных <span>мест</span></div>
+                                                <div class="specialty__value">260</div>
+                                            </div>
+                                            <div class="specialty-list__row">
+                                                <div class="specialty__name">Проходной <span>балл</span></div>
+                                                <div class="specialty__value">от 152</div>
+                                            </div>
+                                            <div class="specialty-list__row">
+                                                <div class="specialty__name">Оплата в год</div>
+                                                <div class="specialty__value">от 90 000 ₽</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="specialty__btn"> 
+                                <div class="all-show">показать все специальности</div>
+                                <div class="all-show">Свернуть</div>
+                            </div>
+                        </div>
+                    </article>
+                    <!-- 05 -->
+                    <article class="university-about">
+                        <div class="university-about__content">
+                            <div class="title">
+                                <h2>Об университете</h2>
+                                <p>Об МГТУ им. Н. Э. Баумана</p>
+                            </div>
+                            <div class="university-about__gallery">
+                                <a class="" href="#"> 
+                                    <img class="" loading="lazy" src="./assets/img/gallery-1.png" alt=""> 
+                                </a> 
+                                <a class="">
+                                    <img class="" loading="lazy" src="./assets/img/gallery-2.png" alt=""> 
+                                </a>
+                                <a class="">
+                                    <img class="" loading="lazy" src="./assets/img/gallery-3.png" alt=""> 
+                                </a>
+                                <a class="">
+                                    <img class="" loading="lazy" src="./assets/img/gallery-4.png" alt=""> 
+                                </a>
+                                <a class="">
+                                    <img class="" loading="lazy" src="./assets/img/gallery-5.png" alt=""> 
+                                </a>
+                            </div>
+                            <div class="university-about__info">
+                                <div class="accordion-intro">
+                                    <p>
+                                        Московский университет ― это один из самых старейших университетов России, был основан в 1755 году. Университет известен во мире и занимает лидирующие места в рейтингах вузов самых различных направлений.
+                                    </p>
+                                </div>
+                                <div class="accordion-content">
+                                    <p>
+                                        В 2008 году он получил награду «Европейское качество» «за стремление достичь высокого качества образовательных услуг в соответствии с международными стандартами». МГТУ им. Н. Э. Баумана в течение более чем 14 лет является головным вузом Ассоциации технических университетов, в состав которой входят более 130 российских университетов.
+                                    </p>
+                                </div>
+                                <!-- <div class="accordion-bottom expand"> -->
+                                <div class="accordion-bottom expand">
+                                    <!-- <div class="toggle-icon-closed fadeIn displayBlock">Развернуть</div>
+                                    <div class="toggle-icon-opened fadeOut displayNone">Свернуть</div> -->
+                                    <div class="toggle-icon-opened">Развернуть</div>
+                                    <div class="toggle-icon-closed">Свернуть</div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <script src="script.js" type="text/javascript"></script>
+</body>
+
+</html>
