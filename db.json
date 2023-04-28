@@ -178,7 +178,7 @@
 						"priceyear": "от 90 002 ₽"
 					},
 					{
-						"name" : "Фундаментальная математика и информатика-1",
+						"name" : "Фундаментальная математика и информатика-1",
 						"foto": "./assets/img/photo-3.png",
 						"level" : "бакалавриат-2",
 						"number" : "01.03.00-2",
@@ -245,7 +245,7 @@
 			"name": "Московский международный университет",
 			"nameshort": "Московский международный университет",
 			"content": {
-				"foto": "https://studika.ru/uploads/media/579/x666.jpg.pagespeed.ic.Ge-38F2bh1.webp",
+				"foto": "./assets/img/mmu1.jpg",
 				"logo": "data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAABQBwCdASooACgAPp08mEkloyUiLjgMyLATiWIA0ifAq4GWBpAmczwP2quogzV5Jj3WCuyQwgx/8kzuM8tHqpNJqkQYAP7+k5/ss/4X+9wAgYAHijR5/nBJEsH9Or4G0+0FYxzaRvnSfc+k15jIGkyZFJp3OKuV9gIatm3iySLxrLPF6sbMdsTSyrfacl88v6L//ExX1X0WBrRPSc9ubsR/nwF/rHd0Z9JkKUnKr/XNfnaeUe0C2yCvLsb5NlJOlB/gWkHEkOgMQXuYt38Fesl9VY4xKa2dAPkmDvgYBS6JPMSDW7LRDxiqnpZDYs6EokwBFMRphBknrY2Cu/hRsvdkPtmoDnw4edHHSsz1U9GSv/2qf2AB5UZ3Ng0E8RZcFCYhelpWT+duHOYfsdeE6/UuKmqwC7rg2cPLmJSvFVrRADklTWJ8JYAA",
 				"address": "Москва, Ленинградский пр-кт, д 17",
 				"telephone": "Приемная комиссия: 7 (906) 175-78-34",
@@ -263,7 +263,8 @@
 							{"url" : "https://studika.ru/uploads/media/578/conversions/66-gallery_big.jpg"},
 							{"url" : "https://studika.ru/uploads/media/579/conversions/666-gallery_small.jpg"},
 							{"url" : "https://studika.ru/uploads/media/580/66666.jpg"},
-							{"url" : "https://studika.ru/uploads/media/581/conversions/6666-gallery_row.jpg"}
+							{"url" : "https://studika.ru/uploads/media/581/conversions/6666-gallery_row.jpg"},
+							{"url" : "https://thumb.tildacdn.com/tild6365-6138-4663-b536-646262663266/-/resize/460x/-/format/webp/noroot.png"}
 						],
 						"textIntro": " Текст сгенерирован на fish-text.ru. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует повышению качества форм воздействия. С учётом сложившейся международной обстановки, новая модель организационной деятельности играет важную роль в формировании поэтапного и последовательного развития общества.",
 						"text": " Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
@@ -271,7 +272,7 @@
 				"specialties": [
 					{
 						"name" : "Психология-2",
-						"foto": "https://studika.ru/uploads/media/26170/conversions/xkak-izbavitsya-ot-plohih-myslej-1-thumb.jpg.pagespeed.ic.X95lRQi6s4.jpg",
+						"foto": "./assets/img/mmu_pchihlogiy.jpg",
 						"level" : "бакалавриат-2",
 						"number" : "37.03.01-2",
 						"typesTraining": [
@@ -315,7 +316,7 @@
 					},
 					{
 						"name" : "Экономика-2",
-						"foto": "https://studika.ru/uploads/media/26167/conversions/x612220477adc6014488185-thumb.jpg.pagespeed.ic.oI87bhD_Eu.jpg",
+						"foto": "./assets/img/mmu-economica.jpg",
 						"level" : "бакалавриат-2",
 						"number" : "38.03.01-2",
 						"typesTraining": [
@@ -351,7 +352,7 @@
 					},
 					{
 						"name" : "Менеджмент-2",
-						"foto": "https://studika.ru/uploads/media/26168/conversions/x1263916635783fe639ba99434957057-thumb.jpg.pagespeed.ic.E9r9SeCod0.jpg",
+						"foto": "./assets/img/mmu-menejment.jpeg",
 						"level" : "бакалавриат-2",
 						"number" : "38.03.02-2",
 						"typesTraining":[
@@ -403,7 +404,7 @@
 			"name": "Московский международный университет(филиал)",
 			"nameshort": "Московский международный университет",
 			"content": {
-				"foto": "https://studika.ru/uploads/media/579/x666.jpg.pagespeed.ic.Ge-38F2bh1.webp",
+				"foto": "./assets/img/mmu1.jpg",
 				"logo": "data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAABQBwCdASooACgAPp08mEkloyUiLjgMyLATiWIA0ifAq4GWBpAmczwP2quogzV5Jj3WCuyQwgx/8kzuM8tHqpNJqkQYAP7+k5/ss/4X+9wAgYAHijR5/nBJEsH9Or4G0+0FYxzaRvnSfc+k15jIGkyZFJp3OKuV9gIatm3iySLxrLPF6sbMdsTSyrfacl88v6L//ExX1X0WBrRPSc9ubsR/nwF/rHd0Z9JkKUnKr/XNfnaeUe0C2yCvLsb5NlJOlB/gWkHEkOgMQXuYt38Fesl9VY4xKa2dAPkmDvgYBS6JPMSDW7LRDxiqnpZDYs6EokwBFMRphBknrY2Cu/hRsvdkPtmoDnw4edHHSsz1U9GSv/2qf2AB5UZ3Ng0E8RZcFCYhelpWT+duHOYfsdeE6/UuKmqwC7rg2cPLmJSvFVrRADklTWJ8JYAA",
 				"address": "Москва, Ленинградский пр-кт, д 17",
 				"telephone": "Приемная комиссия: 7 (906) 175-78-34",
@@ -429,7 +430,7 @@
 				"specialties": [
 					{
 						"name" : "Психология-2",
-						"foto": "https://studika.ru/uploads/media/26170/conversions/xkak-izbavitsya-ot-plohih-myslej-1-thumb.jpg.pagespeed.ic.X95lRQi6s4.jpg",
+						"foto": "./assets/img/mmu_pchihlogiy.jpg",
 						"level" : "бакалавриат-2",
 						"number" : "37.03.01-2",
 						"typesTraining": [
@@ -473,7 +474,7 @@
 					},
 					{
 						"name" : "Экономика-2",
-						"foto": "https://studika.ru/uploads/media/26167/conversions/x612220477adc6014488185-thumb.jpg.pagespeed.ic.oI87bhD_Eu.jpg",
+						"foto": "./assets/img/mmu-economica.jpg",
 						"level" : "бакалавриат-2",
 						"number" : "38.03.01-2",
 						"typesTraining": [
@@ -509,7 +510,7 @@
 					},
 					{
 						"name" : "Менеджмент-2",
-						"foto": "https://studika.ru/uploads/media/26168/conversions/x1263916635783fe639ba99434957057-thumb.jpg.pagespeed.ic.E9r9SeCod0.jpg",
+						"foto": "./assets/img/mmu-menejment.jpeg",
 						"level" : "бакалавриат-2",
 						"number" : "38.03.02-2",
 						"typesTraining":[
@@ -668,7 +669,9 @@
 						"foto": [
 							{"url" : "https://studika.ru/uploads/media/14780/conversions/81-gallery_big.jpg"},
 							{"url" : "https://studika.ru/uploads/media/14781/conversions/85-gallery_row.jpg"},
-							{"url" : "https://studika.ru/uploads/media/14782/conversions/82-gallery_row.jpg"}
+							{"url" : "http://www.слантех.рф/tinybrowser/images/news/2023/abilimpiks_0_18.04.2023.jpg"},
+							{"url" : "http://www.слантех.рф/tinybrowser/images/news/2023_2/dveri_0_20.04.2023.jpg"},
+							{"url" : "http://www.слантех.рф/tinybrowser/images/news/2023_2/uborka_0_20.04.2023.jpg"}
 						],
 						"textIntro": " Текст сгенерирован на fish-text.ru. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует повышению качества форм воздействия. С учётом сложившейся международной обстановки, новая модель организационной деятельности играет важную роль в формировании поэтапного и последовательного развития общества.",
 						"text": " Текст сгенерирован на fish-text.ru. Являясь всего лишь частью общей картины, непосредственные участники технического прогресса могут быть ассоциативно распределены по отраслям. Задача организации, в особенности же реализация намеченных плановых заданий играет определяющее значение для инновационных методов управления процессами."
@@ -1205,7 +1208,7 @@
 			"name": "Московский государственный университет имени М.В. Ломоносова",
 			"nameshort": "МГУ",
 			"content": {
-				"foto": "https://studika.ru/uploads/media/29390/x192.jpg.pagespeed.ic.9LO7HnXzn2.webp",
+				"foto": "https://www.msu.ru/upload/iblock/014/y1gbtfqt836te9rulq9jb550zwnm2i25/msu_banner_270.png",
 				"logo": "data:image/webp;base64,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",
 				"address": "г Москва, ул Ленинские Горы, д 1",
 				"telephone": "Приемная комиссия: +7 (495) 939-10-00",
@@ -1232,7 +1235,7 @@
 				"specialties": [
 					{
 						"name" : "Фундаментальная математика и механика",
-						"foto": "https://studika.ru/uploads/media/26815/conversions/x59911141b1c47446440572-thumb.jpg.pagespeed.ic.6p7Cn3ACYY.webp",
+						"foto": "https://math.msu.ru/media/wp-content/uploads/2018/08/slide04stud_0.jpg",
 						"level" : "СПЕЦИАЛИТЕТ",
 						"number" : "01.05.01",
 						"typesTraining": [
@@ -1257,7 +1260,7 @@
 					},
 					{
 						"name" : "Прикладная математика и информатика",
-						"foto": "https://studika.ru/uploads/media/25582/conversions/x01-engineering-10062014-29659287090-cropped-thumb.jpg.pagespeed.ic.ibgYldUzf-.webp",
+						"foto": "https://cs.msu.ru/sites/cmc/themes/cmc_theme/images/main.jpg",
 						"level" : "БАКАЛАВРИАТ",
 						"number" : "01.03.02",
 						"typesTraining": [
@@ -1278,7 +1281,7 @@
 					},
 					{
 						"name" : "Астрономия",
-						"foto": "https://studika.ru/uploads/media/25534/conversions/x576878787-thumb.jpg.pagespeed.ic.SltxCb0_FP.webp",
+						"foto": "https://vuzopedia.ru/storage/app/uploads/public/594/b84/c72/thumb__1376_605_0_0_crop.jpeg",
 						"level" : "СПЕЦИАЛИТЕТ",
 						"number" : "03.05.01",
 						"typesTraining": [
@@ -1299,7 +1302,7 @@
 					},
 					{
 						"name" : "Фундаментальная и прикладная химия",
-						"foto": "https://studika.ru/uploads/media/25535/conversions/x1611723204-247812-thumb.jpg.pagespeed.ic.NJnnPGHRRp.webp",
+						"foto": "http://www.chem.msu.ru/rus/logo/logo-153ru.png",
 						"level" : "СПЕЦИАЛИТЕТ",
 						"number" : "04.05.01",
 						"typesTraining": [
@@ -1320,7 +1323,7 @@
 					},
 					{
 						"name" : "Биология",
-						"foto": "https://studika.ru/uploads/media/25600/conversions/x1-1-thumb.jpg.pagespeed.ic.MHGYoAMJvj.webp",
+						"foto": "https://img.onesignal.com/permanent/a90f0604-8da7-485d-a52d-33a52cf4ff7d",
 						"level" : "БАКАЛАВРИАТ",
 						"number" : "06.03.01",
 						"typesTraining": [
