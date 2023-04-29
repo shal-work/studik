@@ -1495,7 +1495,7 @@
 			"name": "Алтайский государственный университет",
 			"nameshort": "АлтГУ",
 			"content": {
-				"foto": "https://studika.ru/uploads/media/1750/x74.jpg.pagespeed.ic.01X_WbLGFS.webp",
+				"foto": "./assets/img/АлтГУ.png",
 				"logo": "data:image/webp;base64,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",
 				"address": "г Барнаул, пр-кт Ленина, д 61",
 				"telephone": "Приемная комиссия: +7 (3852) 29-12-22",
@@ -1522,7 +1522,7 @@
 				"specialties": [
 					{
 						"name" : "Зарубежное регионоведение",
-						"foto": "https://studika.ru/uploads/media/26157/conversions/x1618666385-3-funart-pro-p-zarubezhnoe-regionovedenie-krasivie-mesta-3-thumb.jpg.pagespeed.ic.hw4Tlzfvwh.webp",
+						"foto": "./assets/img/АлтГУ1.jpg",
 						"level" : "БАКАЛАВРИАТ",
 						"number" : "41.03.01",
 						"typesTraining": [
@@ -1544,7 +1544,7 @@
 					},
 					{
 						"name" : "Международные отношения",
-						"foto": "https://studika.ru/uploads/media/26149/conversions/x6083e96183d93213657246-thumb.jpg.pagespeed.ic.ASbI0yzp7D.webp",
+						"foto": "https://www.asu.ru/files/content/images/2023/03/news-48384/s00059799.jpg",
 						"level" : "БАКАЛАВРИАТ",
 						"number" : "41.03.05",
 						"typesTraining": [
@@ -1564,7 +1564,7 @@
 					},
 					{
 						"name" : "История",
-						"foto": "https://studika.ru/uploads/media/25570/conversions/x133372-original-thumb.jpg.pagespeed.ic.YXUFqACUnk.webp",
+						"foto": "http://hist.asu.ru/wp-content/uploads/2023/04/skakun-768x432.jpg",
 						"level" : "БАКАЛАВРИАТ",
 						"number" : "41.03.05",
 						"typesTraining": [
